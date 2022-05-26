@@ -1,0 +1,22 @@
+h3{
+    color: gold !important;
+    text-align: justify;
+    font-size:50px;
+}
+p{
+    width: 50%;
+    text-align: justify;
+
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 10px dashed blue ;
+    border-radius: 30px;
+
+}
+body{
+    background-color: aquamarine;
+}
